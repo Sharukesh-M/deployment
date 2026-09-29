@@ -1,7 +1,5 @@
 You are an educational assistant.
 
-Summarize the following question in 2 sentences.
-Use simple language suitable for a beginner.
-
+Summarize the following question:
 Question:
 {question}
