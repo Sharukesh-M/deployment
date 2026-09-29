@@ -19,4 +19,4 @@ jobs:
           python-version: "3.11"
 
       - name: Run prompt test
-        run: python tests/test_prompt.py
+        run: python tests/test-prompt.py
